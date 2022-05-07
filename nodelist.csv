@@ -1,0 +1,17 @@
+id,role,salary,country,label,population,x,y
+Irene,manager,300000,USA,San Francisco,750000,-122.431,37.773
+Zan,manager,380000,USA,Fresno,500000,-119.772,36.746
+Jim,employee,150000,Pakistan,Lahore,12500000,74.329,31.582
+Susie,employee,90000,Pakistan,Karachi,13000000,67.005,24.946
+Kai,employee,135000,Italy,Rome,2500000,12.492,41.89
+Shirley,employee,60000,Italy,Naples,1000000,14.305,40.853
+Erik,employee,90000,Brazil,Rio,12300000,-42.864,-22.752
+Shelby,employee,150000,Brazil,Sao Paolo,12300000,-46.33,-23.944
+Tony,employee,72000,India,New Delhi,,40.41,3.7
+Fil,employee,35000,Canada,Ottwa,,,
+Adam,employee,85000,Russia,Moscow,,,
+Ian,employee,83000,Germany,Berlin,,,
+Miles,employee,99000,UK,London,,,
+Sarah,employee,160000,Denmark,Copenhagen,,,
+Nadieh,contractor,240000,Canada,Ottwa,,,
+Hajra,contractor,280000,Spain,Madrid ,,,
